@@ -1,2 +1,2 @@
-# https-gemechutadele.github.io/
+# gemechutadele.github.io/
 Software development
